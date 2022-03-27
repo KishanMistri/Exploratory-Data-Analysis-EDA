@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-
+# Exploratory-Data-Analysis-EDA
 Data Wrangling and small dataset insights.
 
 
